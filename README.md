@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/contributors/Hunterdii/tryhackme-free-rooms" alt="GitHub Contributors"/>
   <img src="https://img.shields.io/github/last-commit/Hunterdii/tryhackme-free-rooms?display_timestamp=author&style=flat&logo=tryhackme-free-rooms&logoColor=%23F74C00&logoSize=auto&label=TryHackMe%20Free%20Rooms&labelColor=Lavender&color=%239b59b6&cacheSeconds=200" alt="Last Commit"/>
   <img src="https://img.shields.io/badge/Owner-%40Huntedii-<COLOR>.svg" alt="Owner Badge"/>
-<!--   <img src="https://img.shields.io/github/stars/Hunterdii/tryhackme-free-rooms?style=social" alt="GitHub Stars"/>-->
+<!--   <img src="https://img.shields.io/github/stars/Shayanschakravarthy/tryhackme-free-rooms?style=social" alt="GitHub Stars"/>-->
 </p> 
 
 # Github Stats:
@@ -35,12 +35,12 @@
      </thead>
     <tbody>
          <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Hunterdii/tryhackme-free-rooms?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/Hunterdii/tryhackme-free-rooms?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Hunterdii/tryhackme-free-rooms?style=flat&logo=github"/></td>
-            <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Hunterdii/tryhackme-free-rooms?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Hunterdii/tryhackme-free-rooms?style=flat&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Hunterdii/tryhackme-free-rooms?style=flat&color=critical&logo=github"/></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/Shayanschakravarthy/tryhackme-free-rooms?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/Shayanschakravarthy/tryhackme-free-rooms?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/Shayanschakravarthy/tryhackme-free-rooms?style=flat&logo=github"/></td>
+            <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Shayanschakravarthy/tryhackme-free-rooms?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Shayanschakravarthy/tryhackme-free-rooms?style=flat&logo=github"/></td>
+           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Shayanschakravarthy/tryhackme-free-rooms?style=flat&color=critical&logo=github"/></td>
         </tr>
     </tbody>
 </table>
@@ -58,8 +58,8 @@ Ready to start hacking? **Let’s go!** 💥
 
 ## 🛡️ Maintainer  
 
-> **_This repository is maintained by [Hunterdii](https://github.com/Hunterdii)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
+> **_This repository is maintained by [Hunterdii](https://github.com/Shayanschakravarthy)._**  
+> Have suggestions? Feel free to reach out to [me via email](mailto:Shayanschakravarthi96@gmail.com). 📧
 
 ---
 
@@ -75,9 +75,9 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/Hunterdii)                  |
-| **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/het81857)                 |
-| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Hunterdii)                                          |
+| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/Shayanschakravarthy)                  |
+| **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.SSC.com/ShayanSC)                 |
+| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://ShayanSC/Shayanschakravarthy)                                          |
 
 **Thank you for your support! Every bit helps keep this repository going.** 🌈✨
 
@@ -168,7 +168,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 --- 
 
-**🌐 Let’s build the ultimate TryHackMe lab directory, one PR at a time! 🔗 [Make your contribution now.](https://github.com/Hunterdii/tryhackme-free-rooms/pulls)**
+**🌐 Let’s build the ultimate TryHackMe lab directory, one PR at a time! 🔗 [Make your contribution now.](https://github.com/Shayanschakravarthy/tryhackme-free-rooms/pulls)**
 
 
 
